@@ -7,7 +7,7 @@ This is a simplified implemenation of Crash Fault Tolerant (CFT) similar to Raft
 1. PrePrepare Phase (Leader Proposal).
 
 * The leader node (n1) proposes a value (e.g., "Block_123").
-* The leader send proposal to all nodes
+* The leader send proposal to all nodestig
 
 2. Prepare Phase (Voting on Proposal)
 
